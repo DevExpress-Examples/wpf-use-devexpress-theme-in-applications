@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/DevExpress.Examples.ThemeSwitcher/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DevExpress.Examples.ThemeSwitcher/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/DevExpress.Examples.ThemeSwitcher/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/DevExpress.Examples.ThemeSwitcher/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/DevExpress.Examples.ThemeSwitcher/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DevExpress.Examples.ThemeSwitcher/MainWindow.xaml.vb))
 * [Task.cs](./CS/DevExpress.Examples.ThemeSwitcher/Task.cs) (VB: [Task.vb](./VB/DevExpress.Examples.ThemeSwitcher/Task.vb))
 <!-- default file list end -->
 # How to use DevExpress themes in a WPF Application
