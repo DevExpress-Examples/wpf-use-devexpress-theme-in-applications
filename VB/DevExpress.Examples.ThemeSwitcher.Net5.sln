@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevExpress.Examples.ThemeSwitcher", "DevExpress.Examples.ThemeSwitcher\DevExpress.Examples.ThemeSwitcher.csproj", "{164B5887-2A76-4CAB-B4A9-BA2C3D46DC0E}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DevExpress.Examples.ThemeSwitcher", "DevExpress.Examples.ThemeSwitcher\DevExpress.Examples.ThemeSwitcher.Net5.vbproj", "{164B5887-2A76-4CAB-B4A9-BA2C3D46DC0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
