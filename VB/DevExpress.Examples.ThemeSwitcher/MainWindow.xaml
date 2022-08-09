@@ -1,4 +1,4 @@
-﻿<dx:DXWindow xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+<dx:DXWindow xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:dxg="http://schemas.devexpress.com/winfx/2008/xaml/grid"
         xmlns:sys="clr-namespace:System;assembly=mscorlib"
