@@ -6,7 +6,7 @@
 
 # How to use DevExpress themes in a WPF Application
 
-This example demonstrates how to apply a theme to a whole application or an application's element.
+This example demonstrates how to apply a theme to an application or an element in an application.
 
 ![DevExpress Examples ThemeSwitcher_RngRkWmgfI](https://user-images.githubusercontent.com/12169834/183638585-fd285bc8-fe48-42a5-84d7-6d0f9baa214e.png)
 
