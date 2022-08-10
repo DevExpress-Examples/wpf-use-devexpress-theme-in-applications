@@ -22,7 +22,7 @@
 
 
 ```xaml
-xmlns:dx=”<a href="http://schemas.devexpress.com/winfx/2008/xaml/core&rdquo">http://schemas.devexpress.com/winfx/2008/xaml/core&rdquo</a>;
+xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core&rdquo";
 
 <TextBox Name="textBox1" dx:ThemeManager.ThemeName="MetropolisLight" Width="120" Height="23"/>
 ```
