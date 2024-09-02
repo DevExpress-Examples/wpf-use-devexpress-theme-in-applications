@@ -5,7 +5,7 @@
         xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors"
         xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
         x:Class="DevExpress.Examples.ThemeSwitcher.MainWindow"
-        xmlns:dxut="clr-namespace:DevExpress.Xpf.Utils.Themes;assembly=DevExpress.Xpf.Core.v22.2"
+        xmlns:dxut="clr-namespace:DevExpress.Xpf.Utils.Themes;assembly=DevExpress.Xpf.Core.v24.2"
         x:Name="wndMain"
         Title="MainWindow" Height="550" Width="850">
     <Grid>
