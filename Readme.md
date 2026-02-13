@@ -30,7 +30,7 @@ This example illustrates how to apply a theme to an application or an element wi
 ## More Examples
 * [Use the ThemeResource extension to load resources from DevExpress themes dynamically](https://github.com/DevExpress-Examples/how-to-use-the-themeresource-extension-to-load-resources-from-devexpress-themes-dynamically-t207471)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-use-devexpress-theme-in-applications&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-use-devexpress-theme-in-applications&~~~was_helpful=no)
 
